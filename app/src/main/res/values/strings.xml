@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LocalServiceEx1</string>
+    <string name="date">Show Date</string>
+    <string name="min">Show Minutes</string>
+    <string name="service">Connect to Service</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+</resources>
